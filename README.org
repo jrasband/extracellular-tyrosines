@@ -3,9 +3,7 @@ A collection of scripts to extract and plot information about extracellular tyro
 * Requirements
 - Python 3.x
 - Python packages =json=, =sys=, =requests=, =csv= (can be installed with =pip=)
-* Use
-=extracellular-tyrosines= takes a csv file of accession values as input and outputs a csv with a row for each accession containing the following information: accession, description, number of extracellular tyrosine residues, number of extracellular amino acids, total number of amino acids.
+* Explanation
+=extracellular-tyrosines.py= takes the csv files =topHits= and =PSMData= (peptide spectral match data) as input and outputs a csv for each div with a row for each accession containing the following information: accession, name, gene, number of extracellular tyrosine residues, number of extracellular amino acids, total number of amino acids, peptide spectral match.
 
-So, to use the file =accessionList.csv= as inputs and send output to =tyrData.csv=, run =python3 main.py accessionList.csv tyrData.csv=.
-* Plotting
-* Example
+=plot.py= takes one of the div output files from above as an input and creates a plot.

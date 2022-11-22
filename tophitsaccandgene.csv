@@ -1,0 +1,245 @@
+﻿DIV 4,,,DIV7,,,DIV 14,,,DIV 21,,,DIV 28,,
+ACC#,protein name,gene,ACC#,protein name,gene,ACC#,protein name,gene,ACC#,protein name,gene,ACC#,protein name,gene
+P13595,Neural cell adhesion molecule 1,Ncam1,P13595,Neural cell adhesion molecule 1,Ncam1,Q3UHK6,Teneurin-4,Tenm4,Q9CS84,Neurexin-1,Nrxn1,Q6P9K9,Neurexin-3,Nrxn3
+Q61301,Catenin alpha-2,Ctnna2,P12960,Contactin-1,Cntn1,Q80UG2,Plexin-A4,Plxna4,Q02248,Catenin beta-1,Ctnnb1,Q3UHK6,Teneurin-4,Tenm4
+Q80UG2,Plexin-A4,Plxna4,Q91ZX7,Prolow-density lipoprotein receptor-related protein 1,Lrp1,Q810U3,Neurofascin,Nfasc,P11627,Neural cell adhesion molecule L1,L1cam,Q810U3,Neurofascin,Nfasc
+P54763,Ephrin type-B receptor 2,Ephb2,Q61301,Catenin alpha-2,Ctnna2,B0V2N1,Receptor-type tyrosine-protein phosphatase S,Ptprs,Q3UHK6,Teneurin-4,Tenm4,Q9CS84,Neurexin-1,Nrxn1
+Q6ZQA6,Immunoglobulin superfamily member 3,Igsf3,Q80UG2,Plexin-A4,Plxna4,Q9CS84,Neurexin-1,Nrxn1,Q810U3,Neurofascin,Nfasc,Q80UG2,Plexin-A4,Plxna4
+Q02248,Catenin beta-1,Ctnnb1,Q6PIC6,Sodium/potassium-transporting ATPase subunit alpha-3,Atp1a3,Q9WTS5,Teneurin-2,Tenm2,P12960,Contactin-1,Cntn1,B0V2N1,Receptor-type tyrosine-protein phosphatase S,Ptprs
+B2RXS4,Plexin-B2,Plxnb2,Q9WTS5,Teneurin-2,Tenm2,P70206,Plexin-A1,Plxna1,Q61301,Catenin alpha-2,Ctnna2,P97798,Neogenin,Neo1
+P70207,Plexin-A2,Plxna2,Q9CS84,Neurexin-1,Nrxn1,Q61301,Catenin alpha-2,Ctnna2,Q80UG2,Plexin-A4,Plxna4,Q6V4S5,Protein sidekick-2,Sdk2
+Q8VDN2,Sodium/potassium-transporting ATPase subunit alpha-1,Atp1a1,P54763,Ephrin type-B receptor 2,Ephb2,B2RXS4,Plexin-B2,Plxnb2,Q9WTS5,Teneurin-2,Tenm2,Q810U4,Neuronal cell adhesion molecule,Nrcam
+Q6PIC6,Sodium/potassium-transporting ATPase subunit alpha-3,Atp1a3,P70207,Plexin-A2,Plxna2,P11627,Neural cell adhesion molecule L1,L1cam,Q91ZX7,Prolow-density lipoprotein receptor-related protein 1,Lrp1,Q61301,Catenin alpha-2,Ctnna2
+P97792,Coxsackievirus and adenovirus receptor homolog,Cxadr,Q3UHK6,Teneurin-4,Tenm4,Q64487,Receptor-type tyrosine-protein phosphatase delta,Ptprd,B9EKR1,Receptor-type tyrosine-protein phosphatase zeta,Ptprz1,O88343,Electrogenic sodium bicarbonate cotransporter 1,Slc4a4
+Q60751,Insulin-like growth factor 1 receptor,Igf1r,Q810U3,Neurofascin,Nfasc,B9EKR1,Receptor-type tyrosine-protein phosphatase zeta,Ptprz1,Q6P9K9,Neurexin-3,Nrxn3,B2RXS4,Plexin-B2,Plxnb2
+Q6PIE5,Sodium/potassium-transporting ATPase subunit alpha-2,Atp1a2,B2RXS4,Plexin-B2,Plxnb2,P97333,Neuropilin-1,Nrp1,P70206,Plexin-A1,Plxna1,P11627,Neural cell adhesion molecule L1,L1cam
+O35474,EGF-like repeat and discoidin I-like domain-containing protein 3,Edil3,Q6ZQA6,Immunoglobulin superfamily member 3,Igsf3,Q810U4,Neuronal cell adhesion molecule,Nrcam,Q810U4,Neuronal cell adhesion molecule,Nrcam,P43406,Integrin alpha-V,Itgav
+P12960,Contactin-1,Cntn1,Q02248,Catenin beta-1,Ctnnb1,P70207,Plexin-A2,Plxna2,B2RXS4,Plexin-B2,Plxnb2,P70211,Netrin receptor DCC,Dcc
+P70211,Netrin receptor DCC,Dcc,Q8VDN2,Sodium/potassium-transporting ATPase subunit alpha-1,Atp1a1,Q91ZI0,Cadherin EGF LAG seven-pass G-type receptor 3,Celsr3,B0V2N1,Receptor-type tyrosine-protein phosphatase S,Ptprs,Q9CPW0,Contactin-associated protein-like 2,Cntnap2
+P70206,Plexin-A1,Plxna1,P10493,Nidogen-1,Nid1,Q6P9K9,Neurexin-3,Nrxn3,P97798,Neogenin,Neo1,Q9WTS5,Teneurin-2,Tenm2
+P97333,Neuropilin-1,Nrp1,B0V2N1,Receptor-type tyrosine-protein phosphatase S,Ptprs,Q923L3,CUB and sushi domain-containing protein 1,Csmd1,P02469,Laminin subunit beta-1,Lamb1,Q64487,Receptor-type tyrosine-protein phosphatase delta,Ptprd
+Q9CS84,Neurexin-1,Nrxn1,P70206,Plexin-A1,Plxna1,P97798,Neogenin,Neo1,Q923L3,CUB and sushi domain-containing protein 1,Csmd1,Q923L3,CUB and sushi domain-containing protein 1,Csmd1
+P15116,Cadherin-2,Cdh2,P70211,Netrin receptor DCC,Dcc,Q9WTS4,Teneurin-1,Tenm1,Q6V4S5,Protein sidekick-2,Sdk2,Q61137,Astrotactin-1,Astn1
+P15208,Insulin receptor,Insr,P97792,Coxsackievirus and adenovirus receptor homolog,Cxadr,Q01279,Epidermal growth factor receptor,Egfr,P70207,Plexin-A2,Plxna2,P70207,Plexin-A2,Plxna2
+P97798,Neogenin,Neo1,Q6PIE5,Sodium/potassium-transporting ATPase subunit alpha-2,Atp1a2,Q6ZQA6,Immunoglobulin superfamily member 3,Igsf3,P15116,Cadherin-2,Cdh2,Q01279,Epidermal growth factor receptor,Egfr
+O35375,Neuropilin-2,Nrp2,Q810U4,Neuronal cell adhesion molecule,Nrcam,P15116,Cadherin-2,Cdh2,P70211,Netrin receptor DCC,Dcc,P70206,Plexin-A1,Plxna1
+Q2PZL6,Protocadherin Fat 4,Fat4,O35136,Neural cell adhesion molecule 2,Ncam2,O89026,Roundabout homolog 1,Robo1,Q64487,Receptor-type tyrosine-protein phosphatase delta,Ptprd,O35136,Neural cell adhesion molecule 2,Ncam2
+Q3UHK6,Teneurin-4,Tenm4,P97798,Neogenin,Neo1,P70211,Netrin receptor DCC,Dcc,Q9WTS4,Teneurin-1,Tenm1,Q9R0M0,Cadherin EGF LAG seven-pass G-type receptor 2,Celsr2
+Q03137,Ephrin type-A receptor 4,Epha4,Q61137,Astrotactin-1,Astn1,Q80TR1,Adhesion G protein-coupled receptor L1,Adgrl1,P43406,Integrin alpha-V,Itgav,Q3UVX5,Metabotropic glutamate receptor 5,Grm5
+Q8R366,Immunoglobulin superfamily member 8,Igsf8,P11627,Neural cell adhesion molecule L1,L1cam,Q3UVX5,Metabotropic glutamate receptor 5,Grm5,O35136,Neural cell adhesion molecule 2,Ncam2,O35375,Neuropilin-2,Nrp2
+Q02257,Junction plakoglobin,Jup,Q9R1B9,Slit homolog 2 protein,Slit2,Q80TS3,Adhesion G protein-coupled receptor L3,Adgrl3,Q01279,Epidermal growth factor receptor,Egfr,Q91ZX7,Prolow-density lipoprotein receptor-related protein 1,Lrp1
+P70208,Plexin-A3,Plxna3,O35474,EGF-like repeat and discoidin I-like domain-containing protein 3,Edil3,Q9WTS6,Teneurin-3,Tenm3,Q80TR1,Adhesion G protein-coupled receptor L1,Adgrl1,O54991,Contactin-associated protein 1,Cntnap1
+Q61490,CD166 antigen,Alcam,P97333,Neuropilin-1,Nrp1,Q9R0M0,Cadherin EGF LAG seven-pass G-type receptor 2,Celsr2,Q61137,Astrotactin-1,Astn1,Q80TS3,Adhesion G protein-coupled receptor L3,Adgrl3
+E9PVD3,Protocadherin-16,Dchs1,Q91ZI0,Cadherin EGF LAG seven-pass G-type receptor 3,Celsr3,Q61137,Astrotactin-1,Astn1,Q9R0M0,Cadherin EGF LAG seven-pass G-type receptor 2,Celsr2,Q99P47,Contactin-associated protein-like 4,Cntnap4
+Q91ZX7,Prolow-density lipoprotein receptor-related protein 1,Lrp1,Q80TR1,Adhesion G protein-coupled receptor L1,Adgrl1,P0C192,Leucine-rich repeat-containing protein 4B,Lrrc4b,Q3UVX5,Metabotropic glutamate receptor 5,Grm5,Q8R366,Immunoglobulin superfamily member 8,Igsf8
+Q80TF3,Protocadherin-19,Pcdh19,Q9R0M0,Cadherin EGF LAG seven-pass G-type receptor 2,Celsr2,Q8R366,Immunoglobulin superfamily member 8,Igsf8,O88343,Electrogenic sodium bicarbonate cotransporter 1,Slc4a4,P0C192,Leucine-rich repeat-containing protein 4B,Lrrc4b
+Q810U4,Neuronal cell adhesion molecule,Nrcam,Q64487,Receptor-type tyrosine-protein phosphatase delta,Ptprd,P54763,Ephrin type-B receptor 2,Ephb2,P97333,Neuropilin-1,Nrp1,Q9WTS6,Teneurin-3,Tenm3
+Q6V4S5,Protein sidekick-2,Sdk2,P15116,Cadherin-2,Cdh2,Q8BYM5,Neuroligin-3,Nlgn3,Q02257,Junction plakoglobin,Jup,Q80WG5,Volume-regulated anion channel subunit LRRC8A,Lrrc8a
+Q9WTS5,Teneurin-2,Tenm2,Q923L3,CUB and sushi domain-containing protein 1,Csmd1,P97792,Coxsackievirus and adenovirus receptor homolog,Cxadr,Q99P47,Contactin-associated protein-like 4,Cntnap4,Q8BYI9,Tenascin-R,Tnr
+Q6WVG3,BTB/POZ domain-containing protein KCTD12,Kctd12,P0C192,Leucine-rich repeat-containing protein 4B,Lrrc4b,O35136,Neural cell adhesion molecule 2,Ncam2,Q80TS3,Adhesion G protein-coupled receptor L3,Adgrl3,Q80TR1,Adhesion G protein-coupled receptor L1,Adgrl1
+Q8CBF3,Ephrin type-B receptor 1,Ephb1,O08532,Voltage-dependent calcium channel subunit alpha-2/delta-1,Cacna2d1,Q6V4S5,Protein sidekick-2,Sdk2,Q8BYI9,Tenascin-R,Tnr,B9EKR1,Receptor-type tyrosine-protein phosphatase zeta,Ptprz1
+P09055,Integrin beta-1,Itgb1,Q02257,Junction plakoglobin,Jup,A2A8L5,Receptor-type tyrosine-protein phosphatase F,Ptprf,P97792,Coxsackievirus and adenovirus receptor homolog,Cxadr,P15116,Cadherin-2,Cdh2
+Q8BGT1,Leucine-rich repeat transmembrane protein FLRT3,Flrt3,Q8BNA6,Protocadherin Fat 3,Fat3,O88343,Electrogenic sodium bicarbonate cotransporter 1,Slc4a4,Q9CPW0,Contactin-associated protein-like 2,Cntnap2,P09055,Integrin beta-1,Itgb1
+Q99N28,Cell adhesion molecule 3,Cadm3,Q80TR4,Slit homolog 1 protein,Slit1,P43406,Integrin alpha-V,Itgav,Q6ZQA6,Immunoglobulin superfamily member 3,Igsf3,Q02248,Catenin beta-1,Ctnnb1
+Q8R5M8,Cell adhesion molecule 1,Cadm1,Q61490,CD166 antigen,Alcam,Q5RKR3,Immunoglobulin superfamily containing leucine-rich repeat protein 2,Islr2,P13595,Neural cell adhesion molecule 1,Ncam1,P97326,Cadherin-6,Cdh6
+P26231,Catenin alpha-1,Ctnna1,Q3UVX5,Metabotropic glutamate receptor 5,Grm5,P13595,Neural cell adhesion molecule 1,Ncam1,P02468,Laminin subunit gamma-1,Lamc1,P54763,Ephrin type-B receptor 2,Ephb2
+P14094,Sodium/potassium-transporting ATPase subunit beta-1,Atp1b1,Q03137,Ephrin type-A receptor 4,Epha4,O35375,Neuropilin-2,Nrp2,Q8R366,Immunoglobulin superfamily member 8,Igsf8,O08532,Voltage-dependent calcium channel subunit alpha-2/delta-1,Cacna2d1
+Q810U3,Neurofascin,Nfasc,Q6P9K9,Neurexin-3,Nrxn3,O08532,Voltage-dependent calcium channel subunit alpha-2/delta-1,Cacna2d1,Q9WTS6,Teneurin-3,Tenm3,P70232,Neural cell adhesion molecule L1-like protein,Chl1
+Q62165,Dystroglycan,Dag1,Q80Z24,Neuronal growth regulator 1,Negr1,Q80T79,CUB and sushi domain-containing protein 3,Csmd3,Q8BNA6,Protocadherin Fat 3,Fat3,Q80Z24,Neuronal growth regulator 1,Negr1
+P0C192,Leucine-rich repeat-containing protein 4B,Lrrc4b,Q8CBF3,Ephrin type-B receptor 1,Ephb1,Q02257,Junction plakoglobin,Jup,A2A8L5,Receptor-type tyrosine-protein phosphatase F,Ptprf,Q9WTS4,Teneurin-1,Tenm1
+O35136,Neural cell adhesion molecule 2,Ncam2,O35375,Neuropilin-2,Nrp2,Q3UH93,Plexin-D1,Plxnd1,P19137,Laminin subunit alpha-1,Lama1,Q8BYM5,Neuroligin-3,Nlgn3
+Q9WUC3,Lymphocyte antigen 6H,Ly6h,Q9WTS4,Teneurin-1,Tenm1,Q9D1T0,Leucine-rich repeat and immunoglobulin-like domain-containing nogo receptor-interacting protein 1,Lingo1,O08532,Voltage-dependent calcium channel subunit alpha-2/delta-1,Cacna2d1,O70309,Integrin beta-5,Itgb5
+Q6VNS1,NT-3 growth factor receptor,Ntrk3,Q8BYM5,Neuroligin-3,Nlgn3,Q80Z24,Neuronal growth regulator 1,Negr1,P10493,Nidogen-1,Nid1,Q02257,Junction plakoglobin,Jup
+Q91ZI0,Cadherin EGF LAG seven-pass G-type receptor 3,Celsr3,Q6V4S5,Protein sidekick-2,Sdk2,Q99P47,Contactin-associated protein-like 4,Cntnap4,P54763,Ephrin type-B receptor 2,Ephb2,Q9D1T0,Leucine-rich repeat and immunoglobulin-like domain-containing nogo receptor-interacting protein 1,Lingo1
+Q62413,Ephrin type-A receptor 6,Epha6,P23819,Glutamate receptor 2,Gria2,Q8CBF3,Ephrin type-B receptor 1,Ephb1,O35375,Neuropilin-2,Nrp2,P51655,Glypican-4,Gpc4
+Q9JKF6,Nectin-1,Nectin1,Q8R366,Immunoglobulin superfamily member 8,Igsf8,Q91ZX7,Prolow-density lipoprotein receptor-related protein 1,Lrp1,Q80Z24,Neuronal growth regulator 1,Negr1,Q8BNA6,Protocadherin Fat 3,Fat3
+P02468,Laminin subunit gamma-1,Lamc1,Q9WVB4,Slit homolog 3 protein,Slit3,P23819,Glutamate receptor 2,Gria2,P0C192,Leucine-rich repeat-containing protein 4B,Lrrc4b,Q8CJH3,Plexin-B1,Plxnb1
+P19137,Laminin subunit alpha-1,Lama1,Q9WTR5,Cadherin-13,Cdh13,P12960,Contactin-1,Cntn1,Q8VHY0,Chondroitin sulfate proteoglycan 4,Cspg4,P97333,Neuropilin-1,Nrp1
+O08532,Voltage-dependent calcium channel subunit alpha-2/delta-1,Cacna2d1,Q9WUC3,Lymphocyte antigen 6H,Ly6h,Q6PCX7,Repulsive guidance molecule A,Rgma,P23819,Glutamate receptor 2,Gria2,Q61361,Brevican core protein,Bcan
+Q8R555,Cartilage acidic protein 1,Crtac1,Q8R5M8,Cell adhesion molecule 1,Cadm1,P70232,Neural cell adhesion molecule L1-like protein,Chl1,P97326,Cadherin-6,Cdh6,Q62443,Neuronal pentraxin-1,Nptx1
+P54754,Ephrin type-B receptor 3,Ephb3,P02468,Laminin subunit gamma-1,Lamc1,Q68FD9,UPF0606 protein KIAA1549,Kiaa1549,P51655,Glypican-4,Gpc4,O89026,Roundabout homolog 1,Robo1
+B0V2N1,Receptor-type tyrosine-protein phosphatase S,Ptprs,P09055,Integrin beta-1,Itgb1,Q8BYI9,Tenascin-R,Tnr,P09055,Integrin beta-1,Itgb1,A2A8L5,Receptor-type tyrosine-protein phosphatase F,Ptprf
+Q6P9K9,Neurexin-3,Nrxn3,Q06335,Amyloid-like protein 2,Aplp2,P55288,Cadherin-11,Cdh11,Q9D1T0,Leucine-rich repeat and immunoglobulin-like domain-containing nogo receptor-interacting protein 1,Lingo1,Q62059,Versican core protein,Vcan
+Q80T41,Gamma-aminobutyric acid type B receptor subunit 2,Gabbr2,Q99P47,Contactin-associated protein-like 4,Cntnap4,Q8BNA6,Protocadherin Fat 3,Fat3,Q8BYM5,Neuroligin-3,Nlgn3,O35474,EGF-like repeat and discoidin I-like domain-containing protein 3,Edil3
+Q9R0M0,Cadherin EGF LAG seven-pass G-type receptor 2,Celsr2,P19137,Laminin subunit alpha-1,Lama1,Q9WTR5,Cadherin-13,Cdh13,O89026,Roundabout homolog 1,Robo1,P23819,Glutamate receptor 2,Gria2
+P11627,Neural cell adhesion molecule L1,L1cam,P12023,Amyloid-beta A4 protein,App,Q8VHY0,Chondroitin sulfate proteoglycan 4,Cspg4,Q9WTR5,Cadherin-13,Cdh13,P13595,Neural cell adhesion molecule 1,Ncam1
+,,,P97291,Cadherin-8,Cdh8,Q99N28,Cell adhesion molecule 3,Cadm3,Q8R555,Cartilage acidic protein 1,Crtac1,Q68FD9,UPF0606 protein KIAA1549,Kiaa1549
+,,,Q80T41,Gamma-aminobutyric acid type B receptor subunit 2,Gabbr2,Q8R555,Cartilage acidic protein 1,Crtac1,P55288,Cadherin-11,Cdh11,Q6DIB5,Multiple epidermal growth factor-like domains protein 10,Megf10
+,,,Q8R555,Cartilage acidic protein 1,Crtac1,O35393,Ephrin-B3,Efnb3,Q7TNR6,Immunoglobulin superfamily member 21,Igsf21,Q61147,Ceruloplasmin,Cp
+,,,P70208,Plexin-A3,Plxna3,P21956,Lactadherin,Mfge8,O54991,Contactin-associated protein 1,Cntnap1,Q8VHY0,Chondroitin sulfate proteoglycan 4,Cspg4
+,,,Q69ZK9,Neuroligin-2,Nlgn2,Q7TNR6,Immunoglobulin superfamily member 21,Igsf21,Q80T79,CUB and sushi domain-containing protein 3,Csmd3,P55288,Cadherin-11,Cdh11
+,,,Q5RKR3,Immunoglobulin superfamily containing leucine-rich repeat protein 2,Islr2,Q02248,Catenin beta-1,Ctnnb1,Q5RKR3,Immunoglobulin superfamily containing leucine-rich repeat protein 2,Islr2,Q03146,Epithelial discoidin domain-containing receptor 1,Ddr1
+,,,Q80TS3,Adhesion G protein-coupled receptor L3,Adgrl3,P18052,Receptor-type tyrosine-protein phosphatase alpha,Ptpra,Q91ZI0,Cadherin EGF LAG seven-pass G-type receptor 3,Celsr3,Q6ZQA6,Immunoglobulin superfamily member 3,Igsf3
+,,,P23818,Glutamate receptor 1,Gria1,Q9CPW0,Contactin-associated protein-like 2,Cntnap2,P70232,Neural cell adhesion molecule L1-like protein,Chl1,Q60625,Intercellular adhesion molecule 5,Icam5
+,,,Q6WVG3,BTB/POZ domain-containing protein KCTD12,Kctd12,O35161,Cadherin EGF LAG seven-pass G-type receptor 1,Celsr1,P39038,Cadherin-4,Cdh4,Q8R555,Cartilage acidic protein 1,Crtac1
+,,,E9Q612,Receptor-type tyrosine-protein phosphatase O,Ptpro,P97326,Cadherin-6,Cdh6,Q80WG5,Volume-regulated anion channel subunit LRRC8A,Lrrc8a,Q9R1V7,Disintegrin and metalloproteinase domain-containing protein 23,Adam23
+,,,A2A8L5,Receptor-type tyrosine-protein phosphatase F,Ptprf,Q62059,Versican core protein,Vcan,Q68FD9,UPF0606 protein KIAA1549,Kiaa1549,P97792,Coxsackievirus and adenovirus receptor homolog,Cxadr
+,,,Q9D1T0,Leucine-rich repeat and immunoglobulin-like domain-containing nogo receptor-interacting protein 1,Lingo1,Q8CJH3,Plexin-B1,Plxnb1,O35161,Cadherin EGF LAG seven-pass G-type receptor 1,Celsr1,Q01705,Neurogenic locus notch homolog protein 1,Notch1
+,,,P02469,Laminin subunit beta-1,Lamb1,E9Q612,Receptor-type tyrosine-protein phosphatase O,Ptpro,P26231,Catenin alpha-1,Ctnna1,P10493,Nidogen-1,Nid1
+,,,E9PVD3,Protocadherin-16,Dchs1,O70309,Integrin beta-5,Itgb5,Q8CBF3,Ephrin type-B receptor 1,Ephb1,P18052,Receptor-type tyrosine-protein phosphatase alpha,Ptpra
+,,,Q8BGT1,Leucine-rich repeat transmembrane protein FLRT3,Flrt3,Q62351,Transferrin receptor protein 1,Tfrc,Q99J85,Neuronal pentraxin receptor,Nptxr,Q62165,Dystroglycan,Dag1
+,,,P14094,Sodium/potassium-transporting ATPase subunit beta-1,Atp1b1,P70208,Plexin-A3,Plxna3,Q9QZC2,Plexin-C1,Plxnc1,P02468,Laminin subunit gamma-1,Lamc1
+,,,P63080,Gamma-aminobutyric acid receptor subunit beta-3,Gabrb3,Q9QZC2,Plexin-C1,Plxnc1,P21956,Lactadherin,Mfge8,P70208,Plexin-A3,Plxna3
+,,,Q01279,Epidermal growth factor receptor,Egfr,Q99J85,Neuronal pentraxin receptor,Nptxr,Q8CJH3,Plexin-B1,Plxnb1,P12960,Contactin-1,Cntn1
+,,,Q69ZU6,Thrombospondin type-1 domain-containing protein 7A,Thsd7a,Q8R5M8,Cell adhesion molecule 1,Cadm1,P18052,Receptor-type tyrosine-protein phosphatase alpha,Ptpra,P02469,Laminin subunit beta-1,Lamb1
+,,,Q62165,Dystroglycan,Dag1,Q6PIE5,Sodium/potassium-transporting ATPase subunit alpha-2,Atp1a2,Q80T41,Gamma-aminobutyric acid type B receptor subunit 2,Gabbr2,Q80T79,CUB and sushi domain-containing protein 3,Csmd3
+,,,Q7TSK3,Protocadherin-8,Pcdh8,P51655,Glypican-4,Gpc4,P70208,Plexin-A3,Plxna3,P39038,Cadherin-4,Cdh4
+,,,Q9WTS6,Teneurin-3,Tenm3,Q9WV91,Prostaglandin F2 receptor negative regulator,Ptgfrn,O88507,Ciliary neurotrophic factor receptor subunit alpha,Cntfr,P19137,Laminin subunit alpha-1,Lama1
+,,,Q60751,Insulin-like growth factor 1 receptor,Igf1r,P09055,Integrin beta-1,Itgb1,Q61490,CD166 antigen,Alcam,Q80T41,Gamma-aminobutyric acid type B receptor subunit 2,Gabbr2
+,,,Q80TF3,Protocadherin-19,Pcdh19,Q62165,Dystroglycan,Dag1,Q62165,Dystroglycan,Dag1,O88998,Noelin,Olfm1
+,,,B9EKR1,Receptor-type tyrosine-protein phosphatase zeta,Ptprz1,O35474,EGF-like repeat and discoidin I-like domain-containing protein 3,Edil3,Q03146,Epithelial discoidin domain-containing receptor 1,Ddr1,Q9WTR5,Cadherin-13,Cdh13
+,,,Q2PZL6,Protocadherin Fat 4,Fat4,P60755,MAM domain-containing glycosylphosphatidylinositol anchor protein 2,Mdga2,Q69ZK9,Neuroligin-2,Nlgn2,P21956,Lactadherin,Mfge8
+,,,Q68FD9,UPF0606 protein KIAA1549,Kiaa1549,Q9R1B9,Slit homolog 2 protein,Slit2,Q03137,Ephrin type-A receptor 4,Epha4,Q8BGR2,Volume-regulated anion channel subunit LRRC8D,Lrrc8d
+,,,P26231,Catenin alpha-1,Ctnna1,Q80T41,Gamma-aminobutyric acid type B receptor subunit 2,Gabbr2,P70408,Cadherin-10,Cdh10,Q80YX1,Tenascin,Tnc
+,,,P35802,Neuronal membrane glycoprotein M6-a,Gpm6a,Q69ZK9,Neuroligin-2,Nlgn2,O70309,Integrin beta-5,Itgb5,Q7TNR6,Immunoglobulin superfamily member 21,Igsf21
+,,,B1AS29,"Glutamate receptor ionotropic, kainate 3",Grik3,Q03137,Ephrin type-A receptor 4,Epha4,E9PVD3,Protocadherin-16,Dchs1,O35516,Neurogenic locus notch homolog protein 2,Notch2
+,,,Q99N28,Cell adhesion molecule 3,Cadm3,Q6WVG3,BTB/POZ domain-containing protein KCTD12,Kctd12,Q6PCX7,Repulsive guidance molecule A,Rgma,O35409,Glutamate carboxypeptidase 2,Folh1
+,,,Q6P5F6,Zinc transporter ZIP10,Slc39a10,A2ASQ1,Agrin,Agrn,P23818,Glutamate receptor 1,Gria1,Q99N28,Cell adhesion molecule 3,Cadm3
+,,,P50247,Adenosylhomocysteinase,Ahcy,Q8CGM1,Adhesion G protein-coupled receptor B2,Adgrb2,Q60751,Insulin-like growth factor 1 receptor,Igf1r,P60755,MAM domain-containing glycosylphosphatidylinositol anchor protein 2,Mdga2
+,,,Q8BKV1,Glypican-2,Gpc2,Q8JZZ7,Adhesion G protein-coupled receptor L2,Adgrl2,Q80TF3,Protocadherin-19,Pcdh19,Q920P3,BMP/retinoic acid-inducible neural-specific protein 1,Brinp1
+,,,P15208,Insulin receptor,Insr,P39038,Cadherin-4,Cdh4,Q99N28,Cell adhesion molecule 3,Cadm3,P23818,Glutamate receptor 1,Gria1
+,,,Q9CPW0,Contactin-associated protein-like 2,Cntnap2,P35822,Receptor-type tyrosine-protein phosphatase kappa,Ptprk,Q62059,Versican core protein,Vcan,Q8R5M8,Cell adhesion molecule 1,Cadm1
+,,,Q80WG5,Volume-regulated anion channel subunit LRRC8A,Lrrc8a,Q8BKG3,Inactive tyrosine-protein kinase 7,Ptk7,Q9R1B9,Slit homolog 2 protein,Slit2,Q69ZU6,Thrombospondin type-1 domain-containing protein 7A,Thsd7a
+,,,P26048,Gamma-aminobutyric acid receptor subunit alpha-2,Gabra2,Q8VDN2,Sodium/potassium-transporting ATPase subunit alpha-1,Atp1a1,Q8VDN2,Sodium/potassium-transporting ATPase subunit alpha-1,Atp1a1,Q69ZK9,Neuroligin-2,Nlgn2
+,,,P39087,"Glutamate receptor ionotropic, kainate 2",Grik2,P70408,Cadherin-10,Cdh10,O35474,EGF-like repeat and discoidin I-like domain-containing protein 3,Edil3,Q99PJ0,Neurotrimin,Ntm
+,,,Q6VNS1,NT-3 growth factor receptor,Ntrk3,Q6PIC6,Sodium/potassium-transporting ATPase subunit alpha-3,Atp1a3,Q62443,Neuronal pentraxin-1,Nptx1,Q64455,Receptor-type tyrosine-protein phosphatase eta,Ptprj
+,,,Q8R4F1,Netrin-G2,Ntng2,Q69ZU6,Thrombospondin type-1 domain-containing protein 7A,Thsd7a,O35516,Neurogenic locus notch homolog protein 2,Notch2,Q9R087,Glypican-6,Gpc6
+,,,Q80T79,CUB and sushi domain-containing protein 3,Csmd3,Q61147,Ceruloplasmin,Cp,Q60625,Intercellular adhesion molecule 5,Icam5,Q99J85,Neuronal pentraxin receptor,Nptxr
+,,,Q3UHD1,Adhesion G protein-coupled receptor B1,Adgrb1,P26231,Catenin alpha-1,Ctnna1,Q8R5M8,Cell adhesion molecule 1,Cadm1,Q8BKG3,Inactive tyrosine-protein kinase 7,Ptk7
+,,,Q68FM6,Protein phosphatase 1 regulatory subunit 29,Elfn2,P23818,Glutamate receptor 1,Gria1,Q6WVG3,BTB/POZ domain-containing protein KCTD12,Kctd12,Q9JIA1,Leucine-rich glioma-inactivated protein 1,Lgi1
+,,,Q61772,Ephrin type-A receptor 7,Epha7,O88998,Noelin,Olfm1,Q99PJ0,Neurotrimin,Ntm,Q8BLK3,Limbic system-associated membrane protein,Lsamp
+,,,Q9WV91,Prostaglandin F2 receptor negative regulator,Ptgfrn,Q80WG5,Volume-regulated anion channel subunit LRRC8A,Lrrc8a,Q9WV18,Gamma-aminobutyric acid type B receptor subunit 1,Gabbr1,Q8C419,Probable G-protein coupled receptor 158,Gpr158
+,,,Q8BLK3,Limbic system-associated membrane protein,Lsamp,O88507,Ciliary neurotrophic factor receptor subunit alpha,Cntfr,Q8R4F1,Netrin-G2,Ntng2,P35822,Receptor-type tyrosine-protein phosphatase kappa,Ptprk
+,,,Q60629,Ephrin type-A receptor 5,Epha5,Q80YX1,Tenascin,Tnc,Q62351,Transferrin receptor protein 1,Tfrc,Q5RKR3,Immunoglobulin superfamily containing leucine-rich repeat protein 2,Islr2
+,,,Q9JKF6,Nectin-1,Nectin1,P97291,Cadherin-8,Cdh8,P60755,MAM domain-containing glycosylphosphatidylinositol anchor protein 2,Mdga2,Q61527,Receptor tyrosine-protein kinase erbB-4,Erbb4
+,,,P35822,Receptor-type tyrosine-protein phosphatase kappa,Ptprk,Q99PJ0,Neurotrimin,Ntm,Q5SQX6,Cytoplasmic FMR1-interacting protein 2,Cyfip2,Q6DFY8,BMP/retinoic acid-inducible neural-specific protein 2,Brinp2
+,,,P15209,BDNF/NT-3 growth factors receptor,Ntrk2,Q60629,Ephrin type-A receptor 5,Epha5,O88998,Noelin,Olfm1,Q9WU78,Programmed cell death 6-interacting protein,Pdcd6ip
+,,,O35393,Ephrin-B3,Efnb3,P10493,Nidogen-1,Nid1,Q6DIB5,Multiple epidermal growth factor-like domains protein 10,Megf10,P70408,Cadherin-10,Cdh10
+,,,Q8CAE9,Podocalyxin-like protein 2,Podxl2,P04925,Major prion protein,Prnp,Q9JIA1,Leucine-rich glioma-inactivated protein 1,Lgi1,Q9R1B9,Slit homolog 2 protein,Slit2
+,,,Q8BGR2,Volume-regulated anion channel subunit LRRC8D,Lrrc8d,Q8C031,Leucine-rich repeat-containing protein 4C,Lrrc4c,Q80YX1,Tenascin,Tnc,Q6PCX7,Repulsive guidance molecule A,Rgma
+,,,P22723,Gamma-aminobutyric acid receptor subunit gamma-2,Gabrg2,Q9WV18,Gamma-aminobutyric acid type B receptor subunit 1,Gabbr1,Q7TSK3,Protocadherin-8,Pcdh8,P26231,Catenin alpha-1,Ctnna1
+,,,P50571,Gamma-aminobutyric acid receptor subunit beta-1,Gabrb1,Q9QYS2,Metabotropic glutamate receptor 3,Grm3,Q64455,Receptor-type tyrosine-protein phosphatase eta,Ptprj,Q62351,Transferrin receptor protein 1,Tfrc
+,,,Q62413,Ephrin type-A receptor 6,Epha6,Q61739,Integrin alpha-6,Itga6,O35393,Ephrin-B3,Efnb3,Q9DBV4,Matrix remodeling-associated protein 8,Mxra8
+,,,P55288,Cadherin-11,Cdh11,Q03146,Epithelial discoidin domain-containing receptor 1,Ddr1,Q9R1V7,Disintegrin and metalloproteinase domain-containing protein 23,Adam23,Q8C031,Leucine-rich repeat-containing protein 4C,Lrrc4c
+,,,P21956,Lactadherin,Mfge8,Q01705,Neurogenic locus notch homolog protein 1,Notch1,Q8BGR2,Volume-regulated anion channel subunit LRRC8D,Lrrc8d,E9Q7X6,Protein HEG homolog 1,Heg1
+,,,A2ASQ1,Agrin,Agrn,P52795,Ephrin-B1,Efnb1,P15209,BDNF/NT-3 growth factors receptor,Ntrk2,Q6P5F6,Zinc transporter ZIP10,Slc39a10
+,,,P51655,Glypican-4,Gpc4,Q920P3,BMP/retinoic acid-inducible neural-specific protein 1,Brinp1,P97291,Cadherin-8,Cdh8,Q9JKF6,Nectin-1,Nectin1
+,,,P60755,MAM domain-containing glycosylphosphatidylinositol anchor protein 2,Mdga2,P56564,Excitatory amino acid transporter 1,Slc1a3,Q920P3,BMP/retinoic acid-inducible neural-specific protein 1,Brinp1,Q8BJD1,Inter-alpha-trypsin inhibitor heavy chain H5,Itih5
+,,,Q62351,Transferrin receptor protein 1,Tfrc,Q68FM6,Protein phosphatase 1 regulatory subunit 29,Elfn2,P35822,Receptor-type tyrosine-protein phosphatase kappa,Ptprk,Q9WUC3,Lymphocyte antigen 6H,Ly6h
+,,,Q99J85,Neuronal pentraxin receptor,Nptxr,Q8BLK3,Limbic system-associated membrane protein,Lsamp,Q9R1V6,Disintegrin and metalloproteinase domain-containing protein 22,Adam22,Q03137,Ephrin type-A receptor 4,Epha4
+,,,Q99K10,Neuroligin-1,Nlgn1,Q7M6Z0,Reticulon-4 receptor-like 2,Rtn4rl2,P47746,Cannabinoid receptor 1,Cnr1,Q61772,Ephrin type-A receptor 7,Epha7
+,,,Q810B7,SLIT and NTRK-like protein 5,Slitrk5,Q05793,Basement membrane-specific heparan sulfate proteoglycan core protein,Hspg2,Q8C419,Probable G-protein coupled receptor 158,Gpr158,O35161,Cadherin EGF LAG seven-pass G-type receptor 1,Celsr1
+,,,Q80ZF8,Adhesion G protein-coupled receptor B3,Adgrb3,Q6P5F6,Zinc transporter ZIP10,Slc39a10,Q3UHD1,Adhesion G protein-coupled receptor B1,Adgrb1,Q9EPR5,VPS10 domain-containing receptor SorCS2,Sorcs2
+,,,Q9WV18,Gamma-aminobutyric acid type B receptor subunit 1,Gabbr1,P02468,Laminin subunit gamma-1,Lamc1,Q61361,Brevican core protein,Bcan,Q8CGM1,Adhesion G protein-coupled receptor B2,Adgrb2
+,,,O08992,Syntenin-1,Sdcbp,B1AS29,"Glutamate receptor ionotropic, kainate 3",Grik3,Q6P5F6,Zinc transporter ZIP10,Slc39a10,Q8R502,Volume-regulated anion channel subunit LRRC8C,Lrrc8c
+,,,Q9QYS2,Metabotropic glutamate receptor 3,Grm3,Q7TPD3,Roundabout homolog 2,Robo2,Q61527,Receptor tyrosine-protein kinase erbB-4,Erbb4,O88507,Ciliary neurotrophic factor receptor subunit alpha,Cntfr
+,,,Q4V9Z5,Seizure 6-like protein 2,Sez6l2,Q9WVB4,Slit homolog 3 protein,Slit3,Q9WUC3,Lymphocyte antigen 6H,Ly6h,Q61739,Integrin alpha-6,Itga6
+,,,P04925,Major prion protein,Prnp,Q3UHD1,Adhesion G protein-coupled receptor B1,Adgrb1,Q8BKG3,Inactive tyrosine-protein kinase 7,Ptk7,Q6WVG3,BTB/POZ domain-containing protein KCTD12,Kctd12
+,,,P54754,Ephrin type-B receptor 3,Ephb3,Q9QZF2,Glypican-1,Gpc1,O08747,Netrin receptor UNC5C,Unc5c,Q9WV18,Gamma-aminobutyric acid type B receptor subunit 1,Gabbr1
+,,,O89026,Roundabout homolog 1,Robo1,P63080,Gamma-aminobutyric acid receptor subunit beta-3,Gabrb3,Q9QYS2,Metabotropic glutamate receptor 3,Grm3,Q6PIE5,Sodium/potassium-transporting ATPase subunit alpha-2,Atp1a2
+,,,P29319,Ephrin type-A receptor 3,Epha3,Q62443,Neuronal pentraxin-1,Nptx1,Q9JKF6,Nectin-1,Nectin1,Q8VDN2,Sodium/potassium-transporting ATPase subunit alpha-1,Atp1a1
+,,,Q8R464,Cell adhesion molecule 4,Cadm4,P22723,Gamma-aminobutyric acid receptor subunit gamma-2,Gabrg2,Q69ZU6,Thrombospondin type-1 domain-containing protein 7A,Thsd7a,Q6PIC6,Sodium/potassium-transporting ATPase subunit alpha-3,Atp1a3
+,,,P16092,Fibroblast growth factor receptor 1,Fgfr1,Q61527,Receptor tyrosine-protein kinase erbB-4,Erbb4,Q8CGM1,Adhesion G protein-coupled receptor B2,Adgrb2,P04925,Major prion protein,Prnp
+,,,P63137,Gamma-aminobutyric acid receptor subunit beta-2,Gabrb2,Q8R4F1,Netrin-G2,Ntng2,Q6PIC6,Sodium/potassium-transporting ATPase subunit alpha-3,Atp1a3,O08747,Netrin receptor UNC5C,Unc5c
+,,,Q9R1V7,Disintegrin and metalloproteinase domain-containing protein 23,Adam23,O35516,Neurogenic locus notch homolog protein 2,Notch2,Q6PIE5,Sodium/potassium-transporting ATPase subunit alpha-2,Atp1a2,P47746,Cannabinoid receptor 1,Cnr1
+,,,Q6PCX7,Repulsive guidance molecule A,Rgma,Q8BLU0,Leucine-rich repeat transmembrane protein FLRT2,Flrt2,Q01705,Neurogenic locus notch homolog protein 1,Notch1,Q64449,C-type mannose receptor 2,Mrc2
+,,,Q7TNR6,Immunoglobulin superfamily member 21,Igsf21,Q9WUC3,Lymphocyte antigen 6H,Ly6h,P63080,Gamma-aminobutyric acid receptor subunit beta-3,Gabrb3,P15209,BDNF/NT-3 growth factors receptor,Ntrk2
+,,,Q920P3,BMP/retinoic acid-inducible neural-specific protein 1,Brinp1,P12023,Amyloid-beta A4 protein,App,Q8BLK3,Limbic system-associated membrane protein,Lsamp,Q9R1V6,Disintegrin and metalloproteinase domain-containing protein 22,Adam22
+,,,Q3UH93,Plexin-D1,Plxnd1,A2A699,Protein FAM171A2,Fam171a2,Q8R502,Volume-regulated anion channel subunit LRRC8C,Lrrc8c,Q06335,Amyloid-like protein 2,Aplp2
+,,,Q99PJ0,Neurotrimin,Ntm,Q9JIA1,Leucine-rich glioma-inactivated protein 1,Lgi1,E9Q612,Receptor-type tyrosine-protein phosphatase O,Ptpro,Q9QUP5,Hyaluronan and proteoglycan link protein 1,Hapln1
+,,,P70232,Neural cell adhesion molecule L1-like protein,Chl1,Q61361,Brevican core protein,Bcan,Q61772,Ephrin type-A receptor 7,Epha7,Q61490,CD166 antigen,Alcam
+,,,Q9WU78,Programmed cell death 6-interacting protein,Pdcd6ip,Q9WV27,Sodium/potassium-transporting ATPase subunit alpha-4,Atp1a4,Q8R5H6,Wiskott-Aldrich syndrome protein family member 1,Wasf1,Q2PZL6,Protocadherin Fat 4,Fat4
+,,,Q8BM92,Cadherin-7,Cdh7,Q80TR4,Slit homolog 1 protein,Slit1,Q2PZL6,Protocadherin Fat 4,Fat4,P61264,Syntaxin-1B,Stx1b
+,,,Q6PDQ2,Chromodomain-helicase-DNA-binding protein 4,Chd4,Q64449,C-type mannose receptor 2,Mrc2,P28660,Nck-associated protein 1,Nckap1,Q7TSK3,Protocadherin-8,Pcdh8
+,,,Q8C031,Leucine-rich repeat-containing protein 4C,Lrrc4c,Q61772,Ephrin type-A receptor 7,Epha7,Q810B8,SLIT and NTRK-like protein 4,Slitrk4,Q9EQS9,Immunoglobulin superfamily DCC subclass member 4,Igdcc4
+,,,Q9ET01,"Glycogen phosphorylase, liver form",Pygl,Q99K10,Neuroligin-1,Nlgn1,Q9R087,Glypican-6,Gpc6,Q91VK4,Integral membrane protein 2C,Itm2c
+,,,P46096,Synaptotagmin-1,Syt1,Q9EQS9,Immunoglobulin superfamily DCC subclass member 4,Igdcc4,Q6DFY8,BMP/retinoic acid-inducible neural-specific protein 2,Brinp2,Q5SQX6,Cytoplasmic FMR1-interacting protein 2,Cyfip2
+,,,Q91XY4,Protocadherin gamma-A4,Pcdhga4,Q91ZV3,"Discoidin, CUB and LCCL domain-containing protein 2",Dcbld2,P50571,Gamma-aminobutyric acid receptor subunit beta-1,Gabrb1,P35802,Neuronal membrane glycoprotein M6-a,Gpm6a
+,,,Q62443,Neuronal pentraxin-1,Nptx1,P28660,Nck-associated protein 1,Nckap1,Q99K10,Neuroligin-1,Nlgn1,P56564,Excitatory amino acid transporter 1,Slc1a3
+,,,Q9Z2W8,Glutamate receptor 4,Gria4,Q8BKV1,Glypican-2,Gpc2,P12023,Amyloid-beta A4 protein,App,E9PVD3,Protocadherin-16,Dchs1
+,,,Q810B8,SLIT and NTRK-like protein 4,Slitrk4,Q68ED2,Metabotropic glutamate receptor 7,Grm7,P22723,Gamma-aminobutyric acid receptor subunit gamma-2,Gabrg2,Q7TMB8,Cytoplasmic FMR1-interacting protein 1,Cyfip1
+,,,Q9R1V6,Disintegrin and metalloproteinase domain-containing protein 22,Adam22,P14231,Sodium/potassium-transporting ATPase subunit beta-2,Atp1b2,P04925,Major prion protein,Prnp,P14094,Sodium/potassium-transporting ATPase subunit beta-1,Atp1b1
+,,,P43406,Integrin alpha-V,Itgav,Q61490,CD166 antigen,Alcam,Q06335,Amyloid-like protein 2,Aplp2,P43006,Excitatory amino acid transporter 2,Slc1a2
+,,,O88507,Ciliary neurotrophic factor receptor subunit alpha,Cntfr,P54754,Ephrin type-B receptor 3,Ephb3,Q61739,Integrin alpha-6,Itga6,G5E829,Plasma membrane calcium-transporting ATPase 1,Atp2b1
+,,,Q8BKG3,Inactive tyrosine-protein kinase 7,Ptk7,P39061,Collagen alpha-1(XVIII) chain,Col18a1,P15208,Insulin receptor,Insr,Q80TR4,Slit homolog 1 protein,Slit1
+,,,Q64455,Receptor-type tyrosine-protein phosphatase eta,Ptprj,P14094,Sodium/potassium-transporting ATPase subunit beta-1,Atp1b1,Q7TMB8,Cytoplasmic FMR1-interacting protein 1,Cyfip1,,,
+,,,Q924X6,Low-density lipoprotein receptor-related protein 8,Lrp8,Q9WU78,Programmed cell death 6-interacting protein,Pdcd6ip,Q64449,C-type mannose receptor 2,Mrc2,,,
+,,,Q8CFG0,Extracellular sulfatase Sulf-2,Sulf2,Q9JKF6,Nectin-1,Nectin1,Q9R1V4,Disintegrin and metalloproteinase domain-containing protein 11,Adam11,,,
+,,,Q7M6Z0,Reticulon-4 receptor-like 2,Rtn4rl2,P19137,Laminin subunit alpha-1,Lama1,Q8BR86,Kin of IRRE-like protein 3,Kirrel3,,,
+,,,P24549,Retinal dehydrogenase 1,Aldh1a1,Q61001,Laminin subunit alpha-5,Lama5,Q810B7,SLIT and NTRK-like protein 5,Slitrk5,,,
+,,,P05532,Mast/stem cell growth factor receptor Kit,Kit,Q8CAE9,Podocalyxin-like protein 2,Podxl2,Q61147,Ceruloplasmin,Cp,,,
+,,,Q99PH1,Leucine-rich repeat-containing protein 4,Lrrc4,Q8BR86,Kin of IRRE-like protein 3,Kirrel3,Q68FM6,Protein phosphatase 1 regulatory subunit 29,Elfn2,,,
+,,,Q9Z2W9,Glutamate receptor 3,Gria3,Q8BGT1,Leucine-rich repeat transmembrane protein FLRT3,Flrt3,Q9WU78,Programmed cell death 6-interacting protein,Pdcd6ip,,,
+,,,P97326,Cadherin-6,Cdh6,P02469,Laminin subunit beta-1,Lamb1,Q9D074,E3 ubiquitin-protein ligase MGRN1,Mgrn1,,,
+,,,Q8CGM1,Adhesion G protein-coupled receptor B2,Adgrb2,Q810B7,SLIT and NTRK-like protein 5,Slitrk5,Q61330,Contactin-2,Cntn2,,,
+,,,P70408,Cadherin-10,Cdh10,Q7TMB8,Cytoplasmic FMR1-interacting protein 1,Cyfip1,P56564,Excitatory amino acid transporter 1,Slc1a3,,,
+,,,Q8BTI8,Serine/arginine repetitive matrix protein 2,Srrm2,Q5SQX6,Cytoplasmic FMR1-interacting protein 2,Cyfip2,Q2WF71,Leucine-rich repeat and fibronectin type III domain-containing protein 1,Lrfn1,,,
+,,,P39038,Cadherin-4,Cdh4,Q60625,Intercellular adhesion molecule 5,Icam5,Q91XY4,Protocadherin gamma-A4,Pcdhga4,,,
+,,,O70475,UDP-glucose 6-dehydrogenase,Ugdh,Q9R087,Glypican-6,Gpc6,G5E829,Plasma membrane calcium-transporting ATPase 1,Atp2b1,,,
+,,,P47746,Cannabinoid receptor 1,Cnr1,Q06335,Amyloid-like protein 2,Aplp2,P43006,Excitatory amino acid transporter 2,Slc1a2,,,
+,,,Q6DFY8,BMP/retinoic acid-inducible neural-specific protein 2,Brinp2,P63137,Gamma-aminobutyric acid receptor subunit beta-2,Gabrb2,Q91VK4,Integral membrane protein 2C,Itm2c,,,
+,,,Q8BLU0,Leucine-rich repeat transmembrane protein FLRT2,Flrt2,Q3UH53,Protein sidekick-1,Sdk1,Q8VHH7,Adenylate cyclase type 3,Adcy3,,,
+,,,Q5SQX6,Cytoplasmic FMR1-interacting protein 2,Cyfip2,E9PVD3,Protocadherin-16,Dchs1,P05532,Mast/stem cell growth factor receptor Kit,Kit,,,
+,,,P07901,Heat shock protein HSP 90-alpha,Hsp90aa1,Q80TF3,Protocadherin-19,Pcdh19,Q9WVB4,Slit homolog 3 protein,Slit3,,,
+,,,P56564,Excitatory amino acid transporter 1,Slc1a3,Q60751,Insulin-like growth factor 1 receptor,Igf1r,P14094,Sodium/potassium-transporting ATPase subunit beta-1,Atp1b1,,,
+,,,P54761,Ephrin type-B receptor 4,Ephb4,P39087,"Glutamate receptor ionotropic, kainate 2",Grik2,Q91Y13,Protocadherin alpha-7,Pcdha7,,,
+,,,O54754,Aldehyde oxidase 1,Aox1,Q05909,Receptor-type tyrosine-protein phosphatase gamma,Ptprg,Q80TR4,Slit homolog 1 protein,Slit1,,,
+,,,P52795,Ephrin-B1,Efnb1,Q62288,Testican-1,Spock1,P46096,Synaptotagmin-1,Syt1,,,
+,,,P28660,Nck-associated protein 1,Nckap1,Q8CFG0,Extracellular sulfatase Sulf-2,Sulf2,Q69Z26,Contactin-4,Cntn4,,,
+,,,Q8BHJ7,Gamma-aminobutyric acid receptor subunit alpha-5,Gabra5,O88322,Nidogen-2,Nid2,,,,,,
+,,,O35691,Pinin,Pnn,P50247,Adenosylhomocysteinase,Ahcy,,,,,,
+,,,P14824,Annexin A6,Anxa6,Q6DIB5,Multiple epidermal growth factor-like domains protein 10,Megf10,,,,,,
+,,,Q03145,Ephrin type-A receptor 2,Epha2,P63158,High mobility group protein B1,Hmgb1,,,,,,
+,,,A2A699,Protein FAM171A2,Fam171a2,Q2PZL6,Protocadherin Fat 4,Fat4,,,,,,
+,,,Q05793,Basement membrane-specific heparan sulfate proteoglycan core protein,Hspg2,P28653,Biglycan,Bgn,,,,,,
+,,,B1AXV0,DOMON domain-containing protein FRRS1L,Frrs1l,B2RSH2,Guanine nucleotide-binding protein G(i) subunit alpha-1,Gnai1,,,,,,
+,,,Q9QZC2,Plexin-C1,Plxnc1,Q7TSK3,Protocadherin-8,Pcdh8,,,,,,
+,,,Q03146,Epithelial discoidin domain-containing receptor 1,Ddr1,P46096,Synaptotagmin-1,Syt1,,,,,,
+,,,Q60625,Intercellular adhesion molecule 5,Icam5,Q91Y11,Protocadherin alpha-9,Pcdha9,,,,,,
+,,,Q8CGC7,Bifunctional glutamate/proline--tRNA ligase,Eprs,Q91Y13,Protocadherin alpha-7,Pcdha7,,,,,,
+,,,Q7TPD3,Roundabout homolog 2,Robo2,Q6ZQ38,Cullin-associated NEDD8-dissociated protein 1,Cand1,,,,,,
+,,,Q9DBG3,AP-2 complex subunit beta,Ap2b1,F8VPU2,"FERM, RhoGEF and pleckstrin domain-containing protein 1",Farp1,,,,,,
+,,,P47878,Insulin-like growth factor-binding protein 3,Igfbp3,P07724,Serum albumin,Alb,,,,,,
+,,,Q9JIA1,Leucine-rich glioma-inactivated protein 1,Lgi1,Q6DFY8,BMP/retinoic acid-inducible neural-specific protein 2,Brinp2,,,,,,
+,,,Q7TMB8,Cytoplasmic FMR1-interacting protein 1,Cyfip1,,,,,,,,,
+,,,Q9D074,E3 ubiquitin-protein ligase MGRN1,Mgrn1,,,,,,,,,
+,,,O35945,"Aldehyde dehydrogenase, cytosolic 1",Aldh1a7,,,,,,,,,
+,,,P67871,Casein kinase II subunit beta,Csnk2b,,,,,,,,,
+,,,P62874,Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-1,Gnb1,,,,,,,,,
+,,,P37172,Activin receptor type-1,Acvr1,,,,,,,,,
+,,,Q9JLB9,Nectin-3,Nectin3,,,,,,,,,
+,,,Q8JZZ7,Adhesion G protein-coupled receptor L2,Adgrl2,,,,,,,,,
+,,,Q68FD5,Clathrin heavy chain 1,Cltc,,,,,,,,,
+,,,Q8C4U3,Secreted frizzled-related protein 1,Sfrp1,,,,,,,,,
+,,,P84091,AP-2 complex subunit mu,Ap2m1,,,,,,,,,
+,,,Q9D164,FXYD domain-containing ion transport regulator 6,Fxyd6,,,,,,,,,
+,,,Q62288,Testican-1,Spock1,,,,,,,,,
+,,,Q91Y13,Protocadherin alpha-7,Pcdha7,,,,,,,,,
+,,,P18052,Receptor-type tyrosine-protein phosphatase alpha,Ptpra,,,,,,,,,
+,,,P11725,"Ornithine carbamoyltransferase, mitochondrial",Otc,,,,,,,,,
+,,,Q61937,Nucleophosmin,Npm1,,,,,,,,,
+,,,Q8BLQ9,Cell adhesion molecule 2,Cadm2,,,,,,,,,
+,,,Q920B9,FACT complex subunit SPT16,Supt16h,,,,,,,,,
+,,,Q9Z0N1,"Eukaryotic translation initiation factor 2 subunit 3, X-linked",Eif2s3x,,,,,,,,,
+,,,Q7TME0,Phospholipid phosphatase-related protein type 4,Plppr4,,,,,,,,,
+,,,O54774,AP-3 complex subunit delta-1,Ap3d1,,,,,,,,,
+,,,Q5FWI3,Cell surface hyaluronidase,Tmem2,,,,,,,,,
+,,,P21803,Fibroblast growth factor receptor 2,Fgfr2,,,,,,,,,
+,,,Q9QZF2,Glypican-1,Gpc1,,,,,,,,,
+,,,P17427,AP-2 complex subunit alpha-2,Ap2a2,,,,,,,,,
+,,,P70407,Cadherin-9,Cdh9,,,,,,,,,
+,,,Q9JME5,AP-3 complex subunit beta-2,Ap3b2,,,,,,,,,
+,,,Q80YX1,Tenascin,Tnc,,,,,,,,,
+,,,Q9Z0N2,"Eukaryotic translation initiation factor 2 subunit 3, Y-linked",Eif2s3y,,,,,,,,,
+,,,O35161,Cadherin EGF LAG seven-pass G-type receptor 1,Celsr1,,,,,,,,,
+,,,Q9R087,Glypican-6,Gpc6,,,,,,,,,
+,,,P24270,Catalase,Cat,,,,,,,,,
+,,,P06837,Neuromodulin,Gap43,,,,,,,,,
+,,,Q5RJH3,Cadherin-12,Cdh12,,,,,,,,,
+,,,P26049,Gamma-aminobutyric acid receptor subunit alpha-3,Gabra3,,,,,,,,,
+,,,O70340,Neuronal pentraxin-2,Nptx2,,,,,,,,,
+,,,Q8R502,Volume-regulated anion channel subunit LRRC8C,Lrrc8c,,,,,,,,,
+,,,P62880,Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-2,Gnb2,,,,,,,,,
+,,,Q8CIE6,Coatomer subunit alpha,Copa,,,,,,,,,
+,,,Q8VCM7,Fibrinogen gamma chain,Fgg,,,,,,,,,
+,,,Q61136,Serine/threonine-protein kinase PRP4 homolog,Prpf4b,,,,,,,,,
