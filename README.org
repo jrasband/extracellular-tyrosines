@@ -1,9 +1,11 @@
 #+title: extracellular-tyrosines
-A collection of scripts to extract information about extracellular tyrosines from the [[https://www.uniprot.org/][UniProtKB]] protein database.
+A collection of scripts to extract and plot information about extracellular tyrosines from the [[https://www.uniprot.org/][UniProtKB]] protein database.
 * Requirements
 - Python 3.x
-- Python packages =json=, =sys=, =requests=, =csv= (can be installed with =pip install packagename=)
-* How to use
+- Python packages =json=, =sys=, =requests=, =csv= (can be installed with =pip=)
+* Use
 =extracellular-tyrosines= takes a csv file of accession values as input and outputs a csv with a row for each accession containing the following information: accession, description, number of extracellular tyrosine residues, number of extracellular amino acids, total number of amino acids.
 
-So, to take in the file =accessionList.csv= and output to =tyrData.csv= I would run =python3 main.py accessionList.csv tyrData.csv=.
+So, to use the file =accessionList.csv= as inputs and send output to =tyrData.csv=, run =python3 main.py accessionList.csv tyrData.csv=.
+* Plotting
+* Example
